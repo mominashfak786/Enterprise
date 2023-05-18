@@ -9,8 +9,6 @@ const Servicehistory = () => {
   return (
     <>
       <div className="container mx-auto p-4">
-        <h1 className="text-2xl font-bold mb-4">Billing Details</h1>
-
         <div className="flex mb-4">
           <label className="w-36 mr-4 font-semibold">Service Type:</label>
           <select className="p-2 border rounded w-full">
